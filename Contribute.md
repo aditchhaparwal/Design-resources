@@ -7,9 +7,9 @@ _<h1 align="center"> Hacktoberfest2021 🎉</h1>_
    <a href="https://hacktoberfest.digitalocean.com/">
             <img src="https://img.shields.io/badge/Hacktoberfest%202021-Win%20a%20T--Shirt%20OR%20Plant%20a%20Tree-critical"></img>
 </a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/anupam-kumar-krishnan/UI-UX-Resources"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/anupam-kumar-krishnan/UI-UX-Resources"></a>
-   <img alt="GitHub issues" src="https://img.shields.io/github/issues/anupam-kumar-krishnan/UI-UX-Resources"></a>
+   <img alt="GitHub forks" src="https://img.shields.io/github/forks/aditchhaparwal/Design-resources"></a>
+   <img alt="GitHub stars" src="https://img.shields.io/github/stars/aditchhaparwal/Design-resources"></a>
+   <img alt="GitHub issues" src="https://img.shields.io/github/issues/aditchhaparwal/Design-resources"></a>
 
 </p>
 <br>
